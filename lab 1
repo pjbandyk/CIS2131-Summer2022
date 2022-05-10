@@ -1,0 +1,6 @@
+print("My name is Peter Bandyk and I'm a math major."
+  "I'm interested in learning Python for applications in statistics.")
+print("I tried the Python for Everyone course this winter but I didn't finish it.")
+print("I like dogs.")
+print("This summer I'll be tutoring math.")
+print("I grew up in Tampa, Florida.")
